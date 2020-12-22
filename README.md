@@ -10,6 +10,7 @@ Julian date calculator made of Python3.
 
 ## 1. 제작 정보
 Python3 를 이용하여 만들어졌습니다. 
+
 time 패키지 설치가 필요합니다. https://docs.python.org/3/library/time.html
 
 ## 2. 제작자
@@ -20,7 +21,9 @@ time 패키지 설치가 필요합니다. https://docs.python.org/3/library/time
 2. 터미널에 따라 년, 월, 일을 입력합니다.
 3. 계산된 율리우스력이 출력됩니다. 
 
-그냥 다운로드하여 사용하시면 됩니다. 앞서 언급한대로 time 패키지가 필요합니다.
+다운로드하여 위의 방법대로 사용하시면 됩니다. 
+
+앞서 언급한대로 time 패키지가 필요합니다.
 
 ## 4. 파일 구성
 Julian_date_calculator 폴더 안 julian_date_calculator.py 라는 파일을 사용하시면 됩니다. 
